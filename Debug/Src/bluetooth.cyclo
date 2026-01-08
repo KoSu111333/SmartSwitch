@@ -1,0 +1,6 @@
+../Src/bluetooth.c:15:6:blue_init	1
+../Src/bluetooth.c:20:6:process_bluetooth_rx_message	3
+../Src/bluetooth.c:53:6:blue_send_queue_data	4
+../Src/bluetooth.c:78:13:blue_send_data	4
+../Src/bluetooth.c:102:6:chk_blue_connection	1
+../Src/bluetooth.c:106:6:bluetooth_sendCmdParser	13

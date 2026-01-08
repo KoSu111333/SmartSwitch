@@ -1,0 +1,8 @@
+../driver/buffer.c:4:6:CQ_init	16	static
+../driver/buffer.c:17:6:CQ_is_empty	16	static
+../driver/buffer.c:26:6:CQ_is_full	16	static
+../driver/buffer.c:36:6:CQ_enqueue	16	static
+../driver/buffer.c:50:9:CQ_dequeue	16	static
+../driver/buffer.c:61:9:CQ_top	16	static
+../driver/buffer.c:73:6:CQ_buf_clear	16	static
+../driver/buffer.c:81:10:CQ_get_buf_len	16	static

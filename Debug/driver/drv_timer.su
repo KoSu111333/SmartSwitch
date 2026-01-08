@@ -1,0 +1,6 @@
+../driver/drv_timer.c:4:6:TIM_Base_Init	16	static
+../driver/drv_timer.c:29:6:TIM_PWM_Config	32	static
+../driver/drv_timer.c:78:6:TIM_PWM_Init	16	static
+../driver/drv_timer.c:92:6:TIM_SetPWM_Pulse	24	static
+../driver/drv_timer.c:109:6:TIM_PWM_Start	16	static
+../driver/drv_timer.c:113:6:TIM_PWM_Stop	16	static

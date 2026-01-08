@@ -1,0 +1,7 @@
+../Src/main.c:12:6:servo_module_init	1
+../Src/main.c:21:6:bluetooth_module_init	1
+../Src/main.c:29:6:IF_buffer_init	1
+../Src/main.c:34:6:drv_init	1
+../Src/main.c:52:9:main	2
+../Src/main.c:70:6:idle	5
+../Src/main.c:100:6:connected	3
