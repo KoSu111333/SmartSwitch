@@ -1,0 +1,8 @@
+../driver/drv_gpio.c:4:6:init_gpio	1
+../driver/drv_gpio.c:8:6:gpio_clk_enb	1
+../driver/drv_gpio.c:18:6:set_gpio	2
+../driver/drv_gpio.c:49:9:gpio_set_bit	3
+../driver/drv_gpio.c:65:6:is_output_pin	2
+../driver/drv_gpio.c:91:6:deinit_gpio	1
+../driver/drv_gpio.c:95:6:state_chg_gpio	1
+../driver/drv_gpio.c:101:6:gpio_led_test	1

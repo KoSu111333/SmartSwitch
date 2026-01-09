@@ -1,0 +1,7 @@
+../Src/main.c:12:6:servo_module_init	8	static
+../Src/main.c:21:6:bluetooth_module_init	8	static
+../Src/main.c:29:6:IF_buffer_init	8	static
+../Src/main.c:34:6:drv_init	8	static
+../Src/main.c:52:9:main	16	static
+../Src/main.c:70:6:idle	8	static
+../Src/main.c:100:6:connected	8	static

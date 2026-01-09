@@ -1,0 +1,11 @@
+../driver/drv_rcc.c:6:6:SysTick_Init_IRQ	2
+../driver/drv_rcc.c:19:6:enter_stop_mode	1
+../driver/drv_rcc.c:57:6:exit_stop_mode_post_processing	1
+../driver/drv_rcc.c:62:6:set_timeout_ms	1
+../driver/drv_rcc.c:66:6:time_update	1
+../driver/drv_rcc.c:70:6:is_timeout	2
+../driver/drv_rcc.c:80:6:SysTick_Handler	1
+../driver/drv_rcc.c:84:6:delay_ms_irq	2
+../driver/drv_rcc.c:92:6:RCC_init	6
+../driver/drv_rcc.c:154:6:WWDG_Init	1
+../driver/drv_rcc.c:187:6:WWDG_Feed	1
